@@ -29,5 +29,5 @@ We used the simple dataset for face: [faces94](https://cmp.felk.cvut.cz/~spaceli
 1. Youssef Abdelhadi Ahmed El-Mahdy 
 2. Seif Eldin Khaled Abdelkadir Gadalla
 3. Mohammed Noureldin Mohammed Abdo 
-4. Mohammed Gamal 
+4. Mohammed Gamal Eladgham
 
