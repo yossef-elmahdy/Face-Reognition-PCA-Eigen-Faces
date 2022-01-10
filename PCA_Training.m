@@ -9,7 +9,7 @@ PCA_Images = zeros(n, L);                                           % Vector of 
 
 %% Loading the training images in TrainingDB folder
 for count=1:n
-    I = imread(sprintf('./Train/%d.jpg', count));
+    I = imread(sprintf('.\\Train\\%d.jpg', count));
     I = rgb2gray(I);                                                % Grayscale for easy exctraction
     I = imresize(I, [M, N]);                                        % Resize the image to M*N
     resized_images(count, :) = double(reshape(I, [1, M*N]));        % Reshape the image to 1*(M*N)

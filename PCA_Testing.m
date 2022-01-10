@@ -23,7 +23,7 @@ end
 %% Best Match Detection 
 [result, indx] = min(distance_array);
 
-recognized_image = imread(sprintf('./Train/%d.jpg', indx));
+recognized_image = imread(sprintf('.\\Train\\%d.jpg', indx));
 
 subplot(1, 2, 1) 
 imshow(query_image); 
