@@ -19,8 +19,8 @@ Using Principal Component Analysis (PCA) for face recognition (Eigen Faces old a
 
 ## Limitations of using PCA approach 
 - Not very accurate. 
-- Require ideal photos (no background, straight face position, simple lightining source. 
-- There is a way more accurate and practical approach like CNN, HOG, ...
+- Require ideal photos (no background, straight face position, simple lightining source, ..). 
+- There is a way more accurate and practical approaches like CNN, HOG, ...
 
 ## Dataset used 
 We used the simple dataset for face: [faces94](https://cmp.felk.cvut.cz/~spacelib/faces/faces94.html)
