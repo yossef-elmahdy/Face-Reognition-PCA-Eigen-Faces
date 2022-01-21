@@ -23,7 +23,7 @@ Using Principal Component Analysis (PCA) for face recognition (Eigen Faces old a
 - There is a way more accurate and practical approaches like CNN, HOG, ...
 
 ## Dataset used 
-We used the simple dataset for face: [faces94](https://cmp.felk.cvut.cz/~spacelib/faces/faces94.html)
+We used the simple dataset for faces: [faces94](https://cmp.felk.cvut.cz/~spacelib/faces/faces94.html)
 
 ## Project Members 
 1. Youssef Abdelhadi Ahmed El-Mahdy 
